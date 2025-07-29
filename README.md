@@ -1,7 +1,6 @@
 # 🎭 Credit Card Fraud Detection
-
-This project is part of my internship tasks for **Cantilever**.  
-It detects fraudulent transactions in credit card data using **Machine Learning**.
+  
+This project detects fraudulent transactions in credit card data using **Machine Learning**.
 
 ---
 
